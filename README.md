@@ -83,4 +83,71 @@ Le présent compte rendu vise à faire état de l'avancement et des résultats o
       <img width="300" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/70b0b758-26dc-4f3e-9937-f50c2fa40db9">
       <img width="300" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/d216b4f6-2d1f-4656-9b6f-da54722824d3">
 
+    * Structure d'un Composant: (tous les composant ont la même structure)
 
+      <img width="350" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/a742a1c4-6f53-4532-88a8-6056801ccdc2">
+
+  - Les Services:
+    * Ils permettent de séparer la logique métier des composants, favorisent la réutilisabilité, facilitent le partage de données et offrent une meilleure modularité.
+    * Les services sont utilisés pour effectuer des opérations telles que la gestion des requêtes HTTP.
+
+      <img width="300" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/3dce9f5a-365f-4fa1-bb2f-94e68cda622e">
+
+  - AppRoutingModule:
+    * responsable de la gestion du routage dans l'application.
+    * Il permet de définir les routes, les chemins et les composants associés à chaque chemin.
+
+
+      <img width="300" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/6a37e3c2-f084-4b3b-86f1-5e4ef72a8bd7">
+
+      <img width="400" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/0d9d7113-7385-4626-a112-802a624cb02a">
+
+# Interface Utilisateur
+
+  - Customers:
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/552fb9d2-9564-4a63-9fd3-5c3b49d8117a">
+
+  - Search Customers:
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/cab040bd-c132-4e1d-9b55-d8c08c21cae8">
+
+  - New Customer:
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/03fcf68d-836d-4c71-8c35-eede452592a5">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/3ac5c48b-1a6b-49a1-bcc3-fde044c53fe0">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/9ec4cd94-ad42-4bf9-92a9-0bd3b100ed62">
+
+  - Customer Details:
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/f0ba5ac7-1a6f-4939-8949-13983ac919b6">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/d9eecf6f-290b-46ed-bf2e-56294cdcd131">
+    
+  - Delete Customer:
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/ff04d52c-2eea-4540-9551-1cebf2f9a41e">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/cce84ca9-4285-4dec-88ab-2902d3921b42">
+
+  - Accounts
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/15e9a88b-19f3-415a-9a92-aa434d2ba321">
+
+  - Search Accounts
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/f6fa4b9a-2fef-4544-88a4-ddcd6c44f7e9">
+
+  - Débit
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/ca63d3f8-256e-4988-a72c-61460e01cbcc">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/f1f645eb-16b2-49ea-b0f6-75abde4ce54b">
+
+  - Crédit
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/c097bdb4-095e-483d-bdf8-78e0bc225489">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/e6c94ae9-8777-4e58-9b7c-89c74c06b674">
+
+  - Transfer
+
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/896b63f7-1a70-4800-ab3f-6b3d36a7d4ca">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/79b385e7-6477-4cde-9f26-a5e31b75b3da">
+    <img width="800" alt="application properties" src="https://github.com/Sohaib-jalil/JEE_final-project/assets/92445933/c1d83a51-1c0a-45fa-8599-3455b8f2af4e">
